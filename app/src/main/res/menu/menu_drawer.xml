@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:title="Home"
+            android:id="@+id/home"
+            android:icon="@drawable/emaillogo"></item>
+        <item
+            android:title="Home"
+            android:id="@+id/home1"
+            android:icon="@drawable/emaillogo"></item>
+        <item
+            android:title="Home"
+            android:id="@+id/home2"
+            android:icon="@drawable/emaillogo"></item>
+    </group>
+
+    <item android:title="social">
+        <menu>
+            <item
+                android:title="Home"
+                android:id="@+id/home3"
+                android:icon="@drawable/emaillogo"></item>
+            <item
+                android:title="Home"
+                android:id="@+id/home4"
+                android:icon="@drawable/emaillogo"></item>
+            <item
+                android:title="Home"
+                android:id="@+id/home5"
+                android:icon="@drawable/emaillogo"></item>
+        </menu>
+    </item>
+    <group>
+        <item
+            android:title="Home"
+            android:id="@+id/home6"
+            android:icon="@drawable/emaillogo"></item>
+        <item
+            android:title="Home"
+            android:id="@+id/home7"
+            android:icon="@drawable/emaillogo"></item>
+        <item
+            android:title="Home"
+            android:id="@+id/home8"
+            android:icon="@drawable/emaillogo"></item>
+    </group>
+</menu>
